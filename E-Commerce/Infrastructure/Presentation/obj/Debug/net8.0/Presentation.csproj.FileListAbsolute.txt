@@ -1,0 +1,17 @@
+C:\Web\Backend\06 API\E-Commerce\Infrastructure\Presentation\bin\Debug\net8.0\Presentation.deps.json
+C:\Web\Backend\06 API\E-Commerce\Infrastructure\Presentation\bin\Debug\net8.0\Presentation.dll
+C:\Web\Backend\06 API\E-Commerce\Infrastructure\Presentation\bin\Debug\net8.0\Presentation.pdb
+C:\Web\Backend\06 API\E-Commerce\Infrastructure\Presentation\bin\Debug\net8.0\Services.Abstractions.dll
+C:\Web\Backend\06 API\E-Commerce\Infrastructure\Presentation\bin\Debug\net8.0\Shared.dll
+C:\Web\Backend\06 API\E-Commerce\Infrastructure\Presentation\bin\Debug\net8.0\Services.Abstractions.pdb
+C:\Web\Backend\06 API\E-Commerce\Infrastructure\Presentation\bin\Debug\net8.0\Shared.pdb
+C:\Web\Backend\06 API\E-Commerce\Infrastructure\Presentation\obj\Debug\net8.0\Presentation.csproj.AssemblyReference.cache
+C:\Web\Backend\06 API\E-Commerce\Infrastructure\Presentation\obj\Debug\net8.0\Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Web\Backend\06 API\E-Commerce\Infrastructure\Presentation\obj\Debug\net8.0\Presentation.AssemblyInfoInputs.cache
+C:\Web\Backend\06 API\E-Commerce\Infrastructure\Presentation\obj\Debug\net8.0\Presentation.AssemblyInfo.cs
+C:\Web\Backend\06 API\E-Commerce\Infrastructure\Presentation\obj\Debug\net8.0\Presentation.csproj.CoreCompileInputs.cache
+C:\Web\Backend\06 API\E-Commerce\Infrastructure\Presentation\obj\Debug\net8.0\Presenta.BC777DBE.Up2Date
+C:\Web\Backend\06 API\E-Commerce\Infrastructure\Presentation\obj\Debug\net8.0\Presentation.dll
+C:\Web\Backend\06 API\E-Commerce\Infrastructure\Presentation\obj\Debug\net8.0\refint\Presentation.dll
+C:\Web\Backend\06 API\E-Commerce\Infrastructure\Presentation\obj\Debug\net8.0\Presentation.pdb
+C:\Web\Backend\06 API\E-Commerce\Infrastructure\Presentation\obj\Debug\net8.0\ref\Presentation.dll

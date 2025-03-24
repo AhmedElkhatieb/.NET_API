@@ -1,0 +1,15 @@
+C:\Web\Backend\06 API\E-Commerce\Infrastructure\Persistence\bin\Debug\net8.0\Persistence.deps.json
+C:\Web\Backend\06 API\E-Commerce\Infrastructure\Persistence\bin\Debug\net8.0\Persistence.dll
+C:\Web\Backend\06 API\E-Commerce\Infrastructure\Persistence\bin\Debug\net8.0\Persistence.pdb
+C:\Web\Backend\06 API\E-Commerce\Infrastructure\Persistence\bin\Debug\net8.0\Domain.dll
+C:\Web\Backend\06 API\E-Commerce\Infrastructure\Persistence\bin\Debug\net8.0\Domain.pdb
+C:\Web\Backend\06 API\E-Commerce\Infrastructure\Persistence\obj\Debug\net8.0\Persistence.csproj.AssemblyReference.cache
+C:\Web\Backend\06 API\E-Commerce\Infrastructure\Persistence\obj\Debug\net8.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Web\Backend\06 API\E-Commerce\Infrastructure\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfoInputs.cache
+C:\Web\Backend\06 API\E-Commerce\Infrastructure\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfo.cs
+C:\Web\Backend\06 API\E-Commerce\Infrastructure\Persistence\obj\Debug\net8.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Web\Backend\06 API\E-Commerce\Infrastructure\Persistence\obj\Debug\net8.0\Persiste.61C28332.Up2Date
+C:\Web\Backend\06 API\E-Commerce\Infrastructure\Persistence\obj\Debug\net8.0\Persistence.dll
+C:\Web\Backend\06 API\E-Commerce\Infrastructure\Persistence\obj\Debug\net8.0\refint\Persistence.dll
+C:\Web\Backend\06 API\E-Commerce\Infrastructure\Persistence\obj\Debug\net8.0\Persistence.pdb
+C:\Web\Backend\06 API\E-Commerce\Infrastructure\Persistence\obj\Debug\net8.0\ref\Persistence.dll
