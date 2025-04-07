@@ -158,3 +158,6 @@ C:\Web\Backend\06 API\E-Commerce\E-Commerce\obj\Debug\net8.0\refint\E-Commerce.d
 C:\Web\Backend\06 API\E-Commerce\E-Commerce\obj\Debug\net8.0\E-Commerce.pdb
 C:\Web\Backend\06 API\E-Commerce\E-Commerce\obj\Debug\net8.0\E-Commerce.genruntimeconfig.cache
 C:\Web\Backend\06 API\E-Commerce\E-Commerce\obj\Debug\net8.0\ref\E-Commerce.dll
+C:\Web\Backend\06 API\E-Commerce\E-Commerce\obj\Debug\net8.0\E-Commerce.sourcelink.json
+C:\Web\Backend\06 API\E-Commerce\E-Commerce\bin\Debug\net8.0\AutoMapper.dll
+C:\Web\Backend\06 API\E-Commerce\E-Commerce\bin\Debug\net8.0\E-Commerce.staticwebassets.runtime.json

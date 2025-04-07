@@ -9,3 +9,4 @@ C:\Web\Backend\06 API\E-Commerce\Core\Domain\obj\Debug\net8.0\Domain.dll
 C:\Web\Backend\06 API\E-Commerce\Core\Domain\obj\Debug\net8.0\refint\Domain.dll
 C:\Web\Backend\06 API\E-Commerce\Core\Domain\obj\Debug\net8.0\Domain.pdb
 C:\Web\Backend\06 API\E-Commerce\Core\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Web\Backend\06 API\E-Commerce\Core\Domain\obj\Debug\net8.0\Domain.sourcelink.json

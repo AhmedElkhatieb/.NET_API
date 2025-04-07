@@ -15,3 +15,4 @@ C:\Web\Backend\06 API\E-Commerce\Infrastructure\Presentation\obj\Debug\net8.0\Pr
 C:\Web\Backend\06 API\E-Commerce\Infrastructure\Presentation\obj\Debug\net8.0\refint\Presentation.dll
 C:\Web\Backend\06 API\E-Commerce\Infrastructure\Presentation\obj\Debug\net8.0\Presentation.pdb
 C:\Web\Backend\06 API\E-Commerce\Infrastructure\Presentation\obj\Debug\net8.0\ref\Presentation.dll
+C:\Web\Backend\06 API\E-Commerce\Infrastructure\Presentation\obj\Debug\net8.0\Presentation.sourcelink.json

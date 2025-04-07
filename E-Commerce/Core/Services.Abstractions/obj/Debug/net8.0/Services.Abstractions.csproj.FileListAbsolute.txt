@@ -13,3 +13,4 @@ C:\Web\Backend\06 API\E-Commerce\Core\Services.Abstractions\obj\Debug\net8.0\Ser
 C:\Web\Backend\06 API\E-Commerce\Core\Services.Abstractions\obj\Debug\net8.0\refint\Services.Abstractions.dll
 C:\Web\Backend\06 API\E-Commerce\Core\Services.Abstractions\obj\Debug\net8.0\Services.Abstractions.pdb
 C:\Web\Backend\06 API\E-Commerce\Core\Services.Abstractions\obj\Debug\net8.0\ref\Services.Abstractions.dll
+C:\Web\Backend\06 API\E-Commerce\Core\Services.Abstractions\obj\Debug\net8.0\Services.Abstractions.sourcelink.json

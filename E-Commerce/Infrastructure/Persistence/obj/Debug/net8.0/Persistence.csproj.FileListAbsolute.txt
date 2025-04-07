@@ -13,3 +13,4 @@ C:\Web\Backend\06 API\E-Commerce\Infrastructure\Persistence\obj\Debug\net8.0\Per
 C:\Web\Backend\06 API\E-Commerce\Infrastructure\Persistence\obj\Debug\net8.0\refint\Persistence.dll
 C:\Web\Backend\06 API\E-Commerce\Infrastructure\Persistence\obj\Debug\net8.0\Persistence.pdb
 C:\Web\Backend\06 API\E-Commerce\Infrastructure\Persistence\obj\Debug\net8.0\ref\Persistence.dll
+C:\Web\Backend\06 API\E-Commerce\Infrastructure\Persistence\obj\Debug\net8.0\Persistence.sourcelink.json

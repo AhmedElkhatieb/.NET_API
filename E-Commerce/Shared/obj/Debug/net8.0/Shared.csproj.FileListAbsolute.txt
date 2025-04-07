@@ -9,3 +9,4 @@ C:\Web\Backend\06 API\E-Commerce\Shared\obj\Debug\net8.0\Shared.dll
 C:\Web\Backend\06 API\E-Commerce\Shared\obj\Debug\net8.0\refint\Shared.dll
 C:\Web\Backend\06 API\E-Commerce\Shared\obj\Debug\net8.0\Shared.pdb
 C:\Web\Backend\06 API\E-Commerce\Shared\obj\Debug\net8.0\ref\Shared.dll
+C:\Web\Backend\06 API\E-Commerce\Shared\obj\Debug\net8.0\Shared.sourcelink.json

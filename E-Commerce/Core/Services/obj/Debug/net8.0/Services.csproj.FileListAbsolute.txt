@@ -17,3 +17,4 @@ C:\Web\Backend\06 API\E-Commerce\Core\Services\obj\Debug\net8.0\Services.dll
 C:\Web\Backend\06 API\E-Commerce\Core\Services\obj\Debug\net8.0\refint\Services.dll
 C:\Web\Backend\06 API\E-Commerce\Core\Services\obj\Debug\net8.0\Services.pdb
 C:\Web\Backend\06 API\E-Commerce\Core\Services\obj\Debug\net8.0\ref\Services.dll
+C:\Web\Backend\06 API\E-Commerce\Core\Services\obj\Debug\net8.0\Services.sourcelink.json
