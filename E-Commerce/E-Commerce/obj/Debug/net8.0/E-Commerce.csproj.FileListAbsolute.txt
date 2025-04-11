@@ -161,3 +161,5 @@ C:\Web\Backend\06 API\E-Commerce\E-Commerce\obj\Debug\net8.0\ref\E-Commerce.dll
 C:\Web\Backend\06 API\E-Commerce\E-Commerce\obj\Debug\net8.0\E-Commerce.sourcelink.json
 C:\Web\Backend\06 API\E-Commerce\E-Commerce\bin\Debug\net8.0\AutoMapper.dll
 C:\Web\Backend\06 API\E-Commerce\E-Commerce\bin\Debug\net8.0\E-Commerce.staticwebassets.runtime.json
+C:\Web\Backend\06 API\E-Commerce\E-Commerce\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
+C:\Web\Backend\06 API\E-Commerce\E-Commerce\bin\Debug\net8.0\StackExchange.Redis.dll
